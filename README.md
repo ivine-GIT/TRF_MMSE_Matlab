@@ -12,6 +12,6 @@ This repository contains MATLAB code used to infer the auditory attention using 
 	getMarker.m : An interpolation script
   
   
-The repository contains an EEG file (sample_EEG.mat) and a speech env folder. The experiment and data collection procedures are described in https://ieeexplore.ieee.org/abstract/document/9175866
+The repository contains an EEG file (sample_EEG.mat) and a speech envelope folder. The experiment and data collection procedures are described in https://ieeexplore.ieee.org/abstract/document/9175866
   
 
